@@ -1,23 +1,4 @@
-Gambar yang muncul sebagai ikon "pecah" (broken image) berarti GitHub gagal menemukan file tersebut di jalur (path) yang dituliskan.
-
-Ini biasanya terjadi karena dua alasan:
-
-Perubahan nama folder belum ter-update di GitHub: Di laptop folder sudah bernama screenshots, tapi di GitHub mungkin masih screenshoots (dobel 'o') atau folder tersebut belum ter-push.
-
-Case Sensitive: Besar kecil huruf nama file tidak sesuai persis.
-
-Solusi Paling Ampuh: Gunakan Link "Raw"
-
-Agar kita tidak perlu pusing menebak jalur relatif (./assets/...), kita gunakan Link Absolut (Raw URL) langsung dari repository GitHub kamu. Cara ini dijamin memunculkan gambar selama filenya ada di GitHub.
-
-Silakan Copy & Paste kode di bawah ini untuk menggantikan bagian tabel gambar di README.md kamu. Saya sudah menyusun link-nya berdasarkan akun GitHub kamu (23Rayzu).
-
-code
-Markdown
-download
-content_copy
-expand_less
-# HITE MOJO (Hilang Temu Motor Jogja)
+<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/036b3cff-968a-4e99-9ad8-8d9f36b0f72f" /># HITE MOJO (Hilang Temu Motor Jogja)
 
 ## Deskripsi Produk
 **HITE MOJO** adalah Aplikasi Perangkat Bergerak Berbasis Geospasial yang dirancang untuk membantu masyarakat Yogyakarta dalam melaporkan dan melacak kendaraan bermotor yang hilang. Aplikasi ini menghubungkan masyarakat dengan pihak kepolisian melalui pemetaan lokasi kejadian (TKP) dan lokasi kantor polisi terdekat secara *real-time*.
