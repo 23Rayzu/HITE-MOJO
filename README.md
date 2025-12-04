@@ -1,3 +1,22 @@
+Gambar yang muncul sebagai ikon "pecah" (broken image) berarti GitHub gagal menemukan file tersebut di jalur (path) yang dituliskan.
+
+Ini biasanya terjadi karena dua alasan:
+
+Perubahan nama folder belum ter-update di GitHub: Di laptop folder sudah bernama screenshots, tapi di GitHub mungkin masih screenshoots (dobel 'o') atau folder tersebut belum ter-push.
+
+Case Sensitive: Besar kecil huruf nama file tidak sesuai persis.
+
+Solusi Paling Ampuh: Gunakan Link "Raw"
+
+Agar kita tidak perlu pusing menebak jalur relatif (./assets/...), kita gunakan Link Absolut (Raw URL) langsung dari repository GitHub kamu. Cara ini dijamin memunculkan gambar selama filenya ada di GitHub.
+
+Silakan Copy & Paste kode di bawah ini untuk menggantikan bagian tabel gambar di README.md kamu. Saya sudah menyusun link-nya berdasarkan akun GitHub kamu (23Rayzu).
+
+code
+Markdown
+download
+content_copy
+expand_less
 # HITE MOJO (Hilang Temu Motor Jogja)
 
 ## Deskripsi Produk
@@ -24,6 +43,7 @@ Berikut adalah tampilan antarmuka utama aplikasi HITE MOJO:
 
 | Dashboard Monitoring | Peta Persebaran | Riwayat Laporan | Profil Pengguna |
 | :---: | :---: | :---: | :---: |
-| <img src="./assets/screenshots/Dashboard.jpg" width="200" alt="Dashboard"/> | <img src="./assets/screenshots/Map.jpg" width="200" alt="Peta"/> | <img src="./assets/screenshots/History.jpg" width="200" alt="History"/> | <img src="./assets/screenshots/profile.jpg" width="200" alt="Profil"/> |
+| <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/Dashboard.jpg" width="200" alt="Dashboard"/> | <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/Map.jpg" width="200" alt="Peta"/> | <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/History.jpg" width="200" alt="History"/> | <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/profile.jpg" width="200" alt="Profil"/> |
+
 ---
 *Dibuat untuk memenuhi tugas Responsi PGPBL 2025.*
