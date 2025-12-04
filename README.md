@@ -24,6 +24,6 @@ Berikut adalah tampilan antarmuka utama aplikasi HITE MOJO:
 
 | Dashboard Monitoring | Peta Persebaran | Riwayat Laporan | Profil Pengguna |
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/036b3cff-968a-4e99-9ad8-8d9f36b0f72f" width="200" /> | <img src="https://github.com/user-attachments/assets/86313208-8ae0-4bbc-a38b-a8d1ad958ba6" width="200" /> | <img src="https://github.com/user-attachments/assets/90fc51be-5061-42e0-b5a7-956bbd177224" width="200" /> | <img src="https://github.com/user-attachments/assets/60de4c21-82b7-49d1-9e0a-99e52bba9dc1" width="200" /> |
+| <img src="https://github.com/user-attachments/assets/86313208-8ae0-4bbc-a38b-a8d1ad958ba6" width="200" /> | <img src="https://github.com/user-attachments/assets/90fc51be-5061-42e0-b5a7-956bbd177224" width="200" /> | <img src="https://github.com/user-attachments/assets/60de4c21-82b7-49d1-9e0a-99e52bba9dc1" width="200" /> |<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/94877e92-7862-4e65-aa50-b6e9549be756" />|
 ---
 *Dibuat untuk memenuhi tugas Responsi PGPBL 2025.*
