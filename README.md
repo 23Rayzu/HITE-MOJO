@@ -25,6 +25,5 @@ Berikut adalah tampilan antarmuka utama aplikasi HITE MOJO:
 | Dashboard Monitoring | Peta Persebaran | Riwayat Laporan | Profil Pengguna |
 | :---: | :---: | :---: | :---: |
 | <img src="./assets/screenshots/Dashboard.jpg" width="200" alt="Dashboard"/> | <img src="./assets/screenshots/Map.jpg" width="200" alt="Peta"/> | <img src="./assets/screenshots/History.jpg" width="200" alt="History"/> | <img src="./assets/screenshots/profile.jpg" width="200" alt="Profil"/> |
-
 ---
 *Dibuat untuk memenuhi tugas Responsi PGPBL 2025.*
