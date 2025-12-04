@@ -1,50 +1,30 @@
-# Welcome to your Expo app 👋
+# HITE MOJO (Hilang Temu Motor Jogja)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Deskripsi Produk
+**HITE MOJO** adalah Aplikasi Perangkat Bergerak Berbasis Geospasial yang dirancang untuk membantu masyarakat Yogyakarta dalam melaporkan dan melacak kendaraan bermotor yang hilang. Aplikasi ini menghubungkan masyarakat dengan pihak kepolisian melalui pemetaan lokasi kejadian (TKP) dan lokasi kantor polisi terdekat secara *real-time*.
 
-## Get started
+## Komponen Pembangun Produk
+Aplikasi ini dikembangkan menggunakan teknologi berikut:
+- **Framework**: React Native (Expo SDK)
+- **Bahasa Pemrograman**: TypeScript
+- **Peta & Geospasial**: React Native Maps (Google Maps API)
+- **Backend & Database**: Firebase Realtime Database
+- **Autentikasi**: Firebase Authentication
+- **Manajemen State**: React Context API & Hooks
+- **Desain Antarmuka**: React Native Vector Icons & Custom Styling
 
-1. Install dependencies
+## Sumber Data
+Data yang digunakan dalam aplikasi ini bersumber dari:
+1.  **Crowdsourcing**: Data kehilangan motor yang diinputkan langsung oleh pengguna (Nama, Nopol, Ciri-ciri, Foto, Koordinat).
+2.  **Data Statis**: Titik koordinat kantor polisi (Polsek/Polda) di wilayah D.I. Yogyakarta.
+3.  **Google Maps Services**: Base map dan geocoding untuk visualisasi lokasi.
 
-   ```bash
-   npm install
-   ```
+## Tangkapan Layar Komponen Penting
+Berikut adalah tampilan antarmuka utama aplikasi HITE MOJO:
 
-2. Start the app
+| Dashboard Monitoring | Peta Persebaran | Riwayat Laporan | Profil Pengguna |
+| :---: | :---: | :---: | :---: |
+| <img src="./assets/screenshots/Dashboard.jpg" width="200" alt="Dashboard"/> | <img src="./assets/screenshots/Map.jpg" width="200" alt="Peta"/> | <img src="./assets/screenshots/History.jpg" width="200" alt="History"/> | <img src="./assets/screenshots/profile.jpg" width="200" alt="Profil"/> |
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+*Dibuat untuk memenuhi tugas Responsi PGPBL 2025.*
