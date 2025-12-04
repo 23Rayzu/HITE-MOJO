@@ -1,4 +1,4 @@
-<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/036b3cff-968a-4e99-9ad8-8d9f36b0f72f" /># HITE MOJO (Hilang Temu Motor Jogja)
+# HITE MOJO (Hilang Temu Motor Jogja)
 
 ## Deskripsi Produk
 **HITE MOJO** adalah Aplikasi Perangkat Bergerak Berbasis Geospasial yang dirancang untuk membantu masyarakat Yogyakarta dalam melaporkan dan melacak kendaraan bermotor yang hilang. Aplikasi ini menghubungkan masyarakat dengan pihak kepolisian melalui pemetaan lokasi kejadian (TKP) dan lokasi kantor polisi terdekat secara *real-time*.
@@ -24,7 +24,7 @@ Berikut adalah tampilan antarmuka utama aplikasi HITE MOJO:
 
 | Dashboard Monitoring | Peta Persebaran | Riwayat Laporan | Profil Pengguna |
 | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/Dashboard.jpg" width="200" alt="Dashboard"/> | <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/Map.jpg" width="200" alt="Peta"/> | <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/History.jpg" width="200" alt="History"/> | <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/profile.jpg" width="200" alt="Profil"/> |
+| <img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/036b3cff-968a-4e99-9ad8-8d9f36b0f72f" />" width="200" alt="Dashboard"/> | <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/Map.jpg" width="200" alt="Peta"/> | <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/History.jpg" width="200" alt="History"/> | <img src="https://raw.githubusercontent.com/23Rayzu/HITE-MOJO/main/assets/screenshots/profile.jpg" width="200" alt="Profil"/> |
 
 ---
 *Dibuat untuk memenuhi tugas Responsi PGPBL 2025.*
